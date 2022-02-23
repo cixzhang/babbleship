@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/babbleship/static/css/main.e6c13ad2.css",
+    "main.js": "/babbleship/static/js/main.d046495b.js",
+    "static/js/787.e98e23d0.chunk.js": "/babbleship/static/js/787.e98e23d0.chunk.js",
+    "index.html": "/babbleship/index.html",
+    "main.e6c13ad2.css.map": "/babbleship/static/css/main.e6c13ad2.css.map",
+    "main.d046495b.js.map": "/babbleship/static/js/main.d046495b.js.map",
+    "787.e98e23d0.chunk.js.map": "/babbleship/static/js/787.e98e23d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d046495b.js"
+  ]
+}
